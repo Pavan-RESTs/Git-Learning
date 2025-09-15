@@ -1,3 +1,3 @@
-console.log('Hello World');
+console.log("Hello World");
 
-console.log('This is the hello feature implemented by dev-pavan');
+console.log("This is the hello feature implemented by dev-pavan");
